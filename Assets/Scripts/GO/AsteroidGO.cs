@@ -2,15 +2,33 @@ using UnityEngine;
 
 public class AsteroidGO : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    private Asteroid _asteroid;
+    private bool _isLaunched;
 
-    // Update is called once per frame
+    public int Damage => _asteroid.Damage;
+
     void Update()
     {
-        
+        if (!_isLaunched)
+        {
+            return;
+        }
+
+        transform.Translate(Vector2.left * _asteroid.Speed * Time.deltaTime);
+    }
+
+    public void Bind(Asteroid asteroid)
+    {
+        _asteroid = asteroid;
+    }
+
+    public void Launch()
+    {
+        _isLaunched = true;
+    }
+
+    public void Destroy()
+    {
+        Destroy(gameObject);
     }
 }
