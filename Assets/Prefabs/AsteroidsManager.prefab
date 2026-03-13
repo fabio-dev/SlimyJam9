@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6464037692984509805}
   - component: {fileID: 7524740799151569289}
+  - component: {fileID: 2899590684079753581}
   m_Layer: 0
   m_Name: AsteroidsManager
   m_TagString: Untagged
@@ -45,3 +46,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AsteroidsManager
   _asteroidPrefab: {fileID: 3699749786098245288, guid: 095e668ad74854c4da7c9e89a04ff169, type: 3}
+  _spacecraft: {fileID: 0}
+  _healthUI: {fileID: 0}
+  _asteroidsSpawner: {fileID: 2899590684079753581}
+--- !u!114 &2899590684079753581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2358813617408153456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8d59bafcd664554e96a0dffd4d92db6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AsteroidsSpawner
+  _asteroidPrefab: {fileID: 3699749786098245288, guid: 095e668ad74854c4da7c9e89a04ff169, type: 3}
+  _xSpawnPosition: 10
+  _yRangeSpawnPosition: 5
+  _numberOfAsteroidsToSpawn: 12
+  _minSpawnIntervalInSeconds: 0.2
+  _maxSpawnIntervalInSeconds: 1.5
