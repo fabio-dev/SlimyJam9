@@ -1,6 +1,6 @@
 public enum DestinationType
 {
-	Blue,
-	Red,
-	Green,
+	SolarSystem,
+	DarkHole,
+	Asteroids,
 }
