@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: b8f19170da9376a42a7e8c23a99223d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5664836427271355497
+    second: map_destination_0
+  - first:
+      213: -1827140158918201069
+    second: map_destination_1
+  - first:
+      213: -7600719928109134467
+    second: map_destination_2
+  - first:
+      213: -7624402693543411193
+    second: map_destination_3
+  - first:
+      213: 7831646884974840431
+    second: map_destination_4
+  - first:
+      213: -5534723366101327461
+    second: map_destination_5
+  - first:
+      213: -2563539379540333073
+    second: map_destination_6
+  - first:
+      213: -7085434724503795542
+    second: map_destination_7
+  - first:
+      213: 3108912090665173918
+    second: map_destination_8
+  - first:
+      213: -693315643844366522
+    second: map_destination_9
+  - first:
+      213: -6831128633533783588
+    second: map_destination_10
+  - first:
+      213: 7290417890543254958
+    second: map_destination_11
+  - first:
+      213: -9034125665946997424
+    second: map_destination_12
+  - first:
+      213: 3853520938114864566
+    second: map_destination_13
+  - first:
+      213: 6717484227650646184
+    second: map_destination_14
+  - first:
+      213: -5493876126320537234
+    second: map_destination_15
+  - first:
+      213: 2039500128529175445
+    second: map_destination_16
+  - first:
+      213: 2733188371292931532
+    second: map_destination_17
+  - first:
+      213: -7960451111132689025
+    second: map_destination_18
+  - first:
+      213: -8747330019827026473
+    second: map_destination_19
+  - first:
+      213: -3633572488419468480
+    second: map_destination_20
+  - first:
+      213: 7352972695376241752
+    second: map_destination_21
+  - first:
+      213: 4938824015741467834
+    second: map_destination_22
+  - first:
+      213: 5402154738560940411
+    second: map_destination_23
+  - first:
+      213: 2309873676273315241
+    second: map_destination_24
+  - first:
+      213: 584391962027759499
+    second: map_destination_25
+  - first:
+      213: -8075274411720037904
+    second: map_destination_26
+  - first:
+      213: -6887219255998274128
+    second: map_destination_27
+  - first:
+      213: -2684731069970554563
+    second: map_destination_28
+  - first:
+      213: 2348469221446444171
+    second: map_destination_29
+  - first:
+      213: 8432880432563437921
+    second: map_destination_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: map_destination_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 420
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7934cc178457261b0800000000000000
+      internalID: -5664836427271355497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map_destination_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 420
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31174d0c4b1b4a6e0800000000000000
+      internalID: -1827140158918201069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map_destination_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 420
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d82d7ee71d48690800000000000000
+      internalID: -7600719928109134467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 425a94a999f6b0b448607899409a9a8a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":420.0,"y":230.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      map_destination_0: -5664836427271355497
+      map_destination_1: -1827140158918201069
+      map_destination_2: -7600719928109134467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
